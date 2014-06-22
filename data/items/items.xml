@@ -426,7 +426,7 @@
 		<attribute key="weaponType" value="distance" />
 		<attribute key="shootType" value="smallstone" />
 		<attribute key="range" value="4" />
-		<attribute key="breakChance" value="3" />
+		<attribute key="breakChance" value="0" />
 		<attribute key="ammoAction" value="moveback" />
 	</item>
 	<item id="1295" article="a" name="stone">
@@ -3700,7 +3700,7 @@
 		<attribute key="slotType" value="legs" />
 	</item>
 	<item id="2471" article="a" name="golden helmet">
-		<attribute key="description" value="It's the famous Helmet of the Stars." />
+		<attribute key="description" value="It's the famous Helmet of the stars." />
 		<attribute key="weight" value="3200" />
 		<attribute key="armor" value="12" />
 		<attribute key="slotType" value="head" />
@@ -12346,7 +12346,7 @@
 		<attribute key="weaponType" value="distance" />
 		<attribute key="shootType" value="redstar" />
 		<attribute key="range" value="5" />
-		<attribute key="breakChance" value="33" />
+		<attribute key="breakChance" value="0" />
 		<attribute key="ammoAction" value="moveback" />
 	</item>
 	<item id="7369" article="a" name="golden trophy">
@@ -15562,7 +15562,7 @@
 	<item id="8843" article="an" name="onion">
 		<attribute key="weight" value="140" />
 	</item>
-	<item id="8844" name="jalapeño pepper" article="a">
+	<item id="8844" name="jalapeÃ±o pepper" article="a">
 		<attribute key="weight" value="30" />
 	</item>
 	<item id="8845" article="a" name="beetroot">
@@ -17589,7 +17589,7 @@
 		<attribute key="description" value="This one would be quite healthy if it wasn't for all the melted cheese on top." />
 		<attribute key="weight" value="1100" />
 	</item>
-	<item id="9998" article="a" name="filled jalapeño peppers">
+	<item id="9998" article="a" name="filled jalapeÃ±o peppers">
 		<attribute key="description" value="The creamy cheese makes a great combination with the spicy peppers." />
 		<attribute key="weight" value="650" />
 	</item>
