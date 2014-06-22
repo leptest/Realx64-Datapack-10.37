@@ -535,9 +535,9 @@
 	<house name="Harbour Place 1 (Shop)" houseid="1939" entryx="32336" entryy="32222" entryz="7" rent="1100" townid="2" size="14" />
 	<house name="Harbour Place 2 (Shop)" houseid="1940" entryx="32336" entryy="32210" entryz="7" rent="1300" townid="2" size="19" />
 	<house name="Warriors Guildhall" houseid="1941" entryx="32352" entryy="32205" entryz="7" rent="14725" guildhall="true" townid="2" size="255" />
-	<house name="Farm Lane, 1st floor (Shop)" houseid="1942" entryx="32382" entryy="32232" entryz="7" rent="945" townid="2" size="15" />
+	<house name="Farm Lane, 1st floor (Shop)" houseid="1942" entryx="32382" entryy="32232" entryz="7" rent="945" townid="2" size="0" />
 	<house name="Farm Lane, Basement (Shop)" houseid="1943" entryx="32382" entryy="32231" entryz="8" rent="945" townid="2" size="15" />
-	<house name="Main Street 9, 1st floor (Shop)" houseid="1944" entryx="32377" entryy="32224" entryz="7" rent="1440" townid="2" size="24" />
+	<house name="Main Street 9, 1st floor (Shop)" houseid="1944" entryx="32377" entryy="32224" entryz="7" rent="1440" townid="2" size="0" />
 	<house name="Main Street 9a, 2nd floor (Shop)" houseid="1945" entryx="32377" entryy="32222" entryz="6" rent="765" townid="2" size="12" />
 	<house name="Main Street 9b, 2nd floor (Shop)" houseid="1946" entryx="32377" entryy="32224" entryz="6" rent="1260" townid="2" size="23" />
 	<house name="Farm Lane, 2nd Floor (Shop)" houseid="1947" entryx="32382" entryy="32233" entryz="6" rent="945" townid="2" size="15" />
