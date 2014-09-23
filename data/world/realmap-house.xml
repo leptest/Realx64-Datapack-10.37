@@ -281,12 +281,12 @@
 	<house name="Rathal II a" houseid="651" entryx="33210" entryy="32793" entryz="6" rent="1040" townid="9" size="24" />
 	<house name="Esuph II a" houseid="653" entryx="33227" entryy="32813" entryz="6" rent="280" townid="9" size="4" />
 	<house name="Uthemath II" houseid="654" entryx="33208" entryy="32816" entryz="7" rent="4460" guildhall="true" townid="9" size="76" />
-	<house name="Uthemath I e" houseid="655" entryx="33195" entryy="32806" entryz="7" rent="940" townid="9" size="16" />
-	<house name="Uthemath I d" houseid="656" entryx="33181" entryy="32806" entryz="7" rent="840" townid="9" size="18" />
-	<house name="Uthemath I f" houseid="657" entryx="33189" entryy="32816" entryz="7" rent="2440" townid="9" size="49" />
-	<house name="Uthemath I b" houseid="658" entryx="33183" entryy="32811" entryz="6" rent="800" townid="9" size="17" />
-	<house name="Uthemath I c" houseid="659" entryx="33193" entryy="32811" entryz="6" rent="900" townid="9" size="15" />
-	<house name="Uthemath I a" houseid="660" entryx="33188" entryy="32812" entryz="5" rent="400" townid="9" size="7" />
+	<house name="Uthemath I e" houseid="655" entryx="33195" entryy="32806" entryz="7" rent="940" townid="9" size="466" />
+	<house name="Uthemath I d" houseid="656" entryx="33181" entryy="32806" entryz="7" rent="840" townid="9" size="378" />
+	<house name="Uthemath I f" houseid="657" entryx="33189" entryy="32816" entryz="7" rent="2440" townid="9" size="1417" />
+	<house name="Uthemath I b" houseid="658" entryx="33183" entryy="32811" entryz="6" rent="800" townid="9" size="395" />
+	<house name="Uthemath I c" houseid="659" entryx="33193" entryy="32811" entryz="6" rent="900" townid="9" size="519" />
+	<house name="Uthemath I a" houseid="660" entryx="33188" entryy="32812" entryz="5" rent="400" townid="9" size="169" />
 	<house name="Botham I c" houseid="661" entryx="33187" entryy="32830" entryz="7" rent="1700" townid="9" size="26" />
 	<house name="Botham I e" houseid="662" entryx="33192" entryy="32838" entryz="7" rent="1650" townid="9" size="27" />
 	<house name="Botham I d" houseid="663" entryx="33199" entryy="32838" entryz="7" rent="3050" townid="9" size="50" />
