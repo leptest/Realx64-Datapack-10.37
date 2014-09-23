@@ -100,7 +100,7 @@ staminaSystem = "yes"
 -- Startup
 -- NOTE: defaultPriority only works on Windows and sets process priority.
 defaultPriority = "high"
-startupDatabaseOptimization = "no"
+startupDatabaseOptimization = "yes"
 
 -- Status server information
 ownerName = "AC DC"
