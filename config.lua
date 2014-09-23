@@ -19,7 +19,7 @@ noDamageToSameLookfeet = "no"
 -- Connection Config
 -- NOTE: maxPlayers set to 0 means no limit
 passwordType = "sha1"
-ip = "powerdungeon.no-ip.org"
+ip = "powerdungeon.no-ip.info"
 bindOnlyGlobalAddress = "no"
 loginProtocolPort = 7171
 gameProtocolPort = 7172
@@ -105,5 +105,5 @@ startupDatabaseOptimization = "no"
 -- Status server information
 ownerName = "AC DC"
 ownerEmail = ""
-url = "http://powerdungeon.no-ip.org/"
+url = "http://powerdungeon.no-ip.info/"
 location = "United Kingdom"
