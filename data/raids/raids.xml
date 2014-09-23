@@ -25,19 +25,19 @@
 	<raid name="OrcWoods" file="Carlin/OrcWoods.xml" interval2="250" margin="60"/>
 
 	<!-- Bosses -->
-	<raid name="Arachir the Ancient One" file="bosses/Arachir the Ancient One.xml" interval2="1440" margin="60"/>
-	<raid name="Diblis The Fair" file="bosses/Diblis The Fair.xml" interval2="1440" margin="60"/>
-	<raid name="Ferumbras" file="bosses/Ferumbras.xml" interval2="1440" margin="60"/>
-	<raid name="Ghazbaran" file="bosses/Ghazbaran.xml" interval2="1440" margin="60"/>
+	<raid name="Arachir the Ancient One" file="bosses/Arachir the Ancient One.xml" interval2="111" margin="60"/>
+	<raid name="Diblis The Fair" file="bosses/Diblis The Fair.xml" interval2="111" margin="60"/>
+	<raid name="Ferumbras" file="bosses/Ferumbras.xml" interval2="111" margin="60"/>
+	<raid name="Ghazbaran" file="bosses/Ghazbaran.xml" interval2="111" margin="60"/>
 	<!--raid name="Halloween Hare" file="bosses/halloween.xml" interval2="250" margin="60"/-->
-	<raid name="Horned Fox" file="bosses/horned.xml" interval2="1440" margin="60"/>
-	<raid name="Morgaroth" file="bosses/Morgaroth.xml" interval2="1440" margin="60"/>
-	<raid name="Necropharus" file="bosses/Necropharus.xml" interval2="1440" margin="60"/>
-	<raid name="Orshabaal" file="bosses/Orshabaal.xml" interval2="1440" margin="60"/>
-	<raid name="Sir Valorcrest" file="bosses/Sir Valorcrest.xml" interval2="1440" margin="60"/>
-	<raid name="The Old Widow" file="bosses/The Old Widow.xml" interval2="1440" margin="60"/>
-	<raid name="Zevelon Duskbringer" file="bosses/Zevelon Duskbringer.xml" interval2="1440" margin="60"/>
-	<raid name="Zulazza the Corruptor" file="bosses/Zulazza the Corruptor.xml" interval2="1440" margin="60"/>
+	<raid name="Horned Fox" file="bosses/horned.xml" interval2="111" margin="60"/>
+	<raid name="Morgaroth" file="bosses/Morgaroth.xml" interval2="111" margin="60"/>
+	<raid name="Necropharus" file="bosses/Necropharus.xml" interval2="111" margin="60"/>
+	<raid name="Orshabaal" file="bosses/Orshabaal.xml" interval2="111" margin="60"/>
+	<raid name="Sir Valorcrest" file="bosses/Sir Valorcrest.xml" interval2="111" margin="60"/>
+	<raid name="The Old Widow" file="bosses/The Old Widow.xml" interval2="111" margin="60"/>
+	<raid name="Zevelon Duskbringer" file="bosses/Zevelon Duskbringer.xml" interval2="111" margin="60"/>
+	<raid name="Zulazza the Corruptor" file="bosses/Zulazza the Corruptor.xml" interval2="111" margin="60"/>
 
 	<!-- Regular Raids -->
 	<raid name="citizen" file="normal/feverish citizen.xml" interval2="250" margin="60"/>
