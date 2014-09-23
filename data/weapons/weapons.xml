@@ -663,15 +663,16 @@
 	<distance id="7367" unproperly="1" level="42" function="default"/>	<!-- Enchanted Spear -->
 	<distance id="7368" unproperly="1" level="80" function="default"/>	<!-- Assassin Star -->
 	<distance id="7378" unproperly="1" level="25" function="default"/>	<!-- Royal Spear -->
-	<distance id="7839" unproperly="1" level="20" function="default"/>	<!-- Shiver Arrow -->
 
 	<!-- <distance id="7840" unproperly="1" level="20" function="default"/> -->	<!-- Flaming Arrow -->
 	<!-- <distance id="7850" unproperly="1" level="20" function="default"/> -->	<!-- Earth Arrow -->
+	<!-- <distance id="7839" unproperly="1" level="20" function="default"/> -->	<!-- Shiver Arrow -->
 	<!-- <distance id="7838" unproperly="1" level="20" function="default"/> -->	<!-- Flash Arrow -->
 
 	<distance id="7840" script="fire_arrow.lua"/>	<!-- Flaming Arrow -->
 	<distance id="7850" script="poison_arrow2.lua"/>	<!-- Earth Arrow -->
-	<distance id="7838" script="ice_arrow.lua"/>	<!-- Flash Arrow -->
+	<distance id="7839" script="ice_arrow.lua"/>	<!-- Shiver Arrow -->
+	<distance id="7838" script="energy_arrow.lua"/>	<!-- Flash Arrow -->
 
 	<distance id="15648" unproperly="1" level="30" function="default"/>	<!-- Tarsal Arrow -->
 	<distance id="15649" unproperly="1" level="40" function="default"/>	<!-- Vortex Bolt -->

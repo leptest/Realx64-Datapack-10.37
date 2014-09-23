@@ -14051,7 +14051,7 @@
 		<attribute key="weight" value="70" />
 		<attribute key="slotType" value="ammo" />
 		<attribute key="attack" value="14" />
-		<attribute key="elementIce" value="14" />
+		<attribute key="elementIce" value="26" />
 		<attribute key="weaponType" value="ammunition" />
 		<attribute key="ammoType" value="arrow" />
 		<attribute key="shootType" value="shiverarrow" />
@@ -14062,7 +14062,7 @@
 		<attribute key="weight" value="70" />
 		<attribute key="slotType" value="ammo" />
 		<attribute key="attack" value="14" />
-		<attribute key="elementFire" value="14" />
+		<attribute key="elementFire" value="26" />
 		<attribute key="weaponType" value="ammunition" />
 		<attribute key="ammoType" value="arrow" />
 		<attribute key="shootType" value="flammingarrow" />
@@ -14112,7 +14112,7 @@
 		<attribute key="weight" value="70" />
 		<attribute key="slotType" value="ammo" />
 		<attribute key="attack" value="14" />
-		<attribute key="elementEarth" value="14" />
+		<attribute key="elementEarth" value="26" />
 		<attribute key="weaponType" value="ammunition" />
 		<attribute key="shootType" value="eartharrow" />
 		<attribute key="ammoType" value="arrow" />
