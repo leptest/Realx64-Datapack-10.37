@@ -6,8 +6,8 @@
 	<action actionid="4532" script="vocdoor.lua"/>
 	<action actionid="4533" script="vocdoor.lua"/>
 	<action actionid="4534" script="vocdoor.lua"/>
-	<action itemid="5710" script="leech.lua" />
-	<action itemid="2554" script="leech.lua" />
+<!-- 	<action itemid="5710" script="leech.lua" />
+	<action itemid="2554" script="leech.lua" /> -->
 	<action itemid="15572" script="tester.lua" />
 	
 	<!-- Weapons enchanting (Gems) -->
