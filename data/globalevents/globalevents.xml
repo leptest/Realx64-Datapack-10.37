@@ -4,5 +4,5 @@
 	<globalevent type="record" name="PlayerRecord" script="record.lua"/>
 	<globalevent name="Messages" interval="4000" script="msg.lua" />
 	<globalevent name="Autobroadcast" interval="300000" script="autobroadcast.lua" />
-	<globalevent name="ServerSave" interval="150000" script="serversave.lua" />
+	<globalevent name="ServerSave" interval="6000000" script="serversave.lua" />
 </globalevents>
