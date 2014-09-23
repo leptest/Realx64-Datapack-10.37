@@ -44,7 +44,7 @@
 		<item id="11206" chance="100000"/> <!-- red lantern -->
 		<item id="11303" chance="3150"/> <!-- zaoan shoes -->
 		<item id="11330" chance="11250"/> <!-- zaogun flag -->
-		<item id="11304" chance="2625"/> <!-- zaoan legs -->
+		<item id="11304" chance="1625"/> <!-- zaoan legs -->
 		<item id="11301" chance="1050"/> <!-- zaoan armor -->
 		<item id="11331" chance="100000"/> <!-- zaogun shoulderplates -->
 	</loot>
