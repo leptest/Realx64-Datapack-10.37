@@ -29,6 +29,7 @@
 	<talkaction words="/chameleon" separator=" " script="gamemaster/chameleon.lua" />
 	<talkaction words="/addskill" separator=" " script="gamemaster/add_skill.lua" />
 	<talkaction words="/ghost" script="gamemaster/ghost.lua" />
+	<talkaction words="/save" script="gamemaster/save.lua" />
 
 	<!-- Player talkactions -->
 	<talkaction words="!buyhouse" script="players/buyhouse.lua"/>
@@ -40,6 +41,6 @@
 	<talkaction words="!online" script="players/online.lua"/>
 	<talkaction words="!serverinfo" script="players/serverinfo.lua"/>
 	<talkaction words="!aol" script="players/aol.lua" />
-  <talkaction words="!exp" script="players/expe.lua"/>
-  <talkaction words="!bless" script="players/bless.lua" />
+	<talkaction words="!exp" script="players/expe.lua"/>
+	<talkaction words="!bless" script="players/bless.lua" />
 </talkactions>
